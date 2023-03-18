@@ -1,15 +1,15 @@
 ## Aimee Kang
 
 ### About me 
-- Full stack developer passionate about the intersection of technology and design.
-- Previously in tech as a GTM strategy & operations partner to product and sales leaders.
-- Passionate climber and lover of the outdoors.
+👩‍💻 Full stack developer passionate about the intersection of technology and design. <br>
+🤝 Previously in tech as a GTM strategy & operations partner to product and sales leaders. <br>
+⛰️ Passionate climber and lover of the outdoors. <br>
 
 
 ### Values
-- Shared understanding & collaboration
-- Learning and Growth
-- Diversity and Inclusion
+💡 Shared understanding & collaboration <br>
+🚀 Learning and Growth <br>
+✨ Diversity and Inclusion <br>
 
 
 <!--
