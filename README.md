@@ -1,6 +1,8 @@
 ## Aimee Kang
 
-I'm a full stack developer passionate about the intersection of technology and design. Whether it's crafting elegant front-end interfaces or designing efficient backend systems, I'm always looking for ways to elevate the user experience.
+Full stack developer passionate about the intersection of technology and design.
+Previously in tech as a GTM strategy & operations partner to product and sales leaders.
+Passionate climber and lover of the outdoors.
 
 <!--
 <p align="left">
