@@ -1,6 +1,6 @@
 ## <div align="center">Hello world, I'm Aimee 👋</div>
 
-### <div align="center">I'm a full stack developer passionate about the intersection of technology and design. Whether it's crafting elegant front-end interfaces or designing efficient backend systems, I'm always looking for ways to elevate the user experience.
+### <div align="center">I'm a full stack developer passionate about the intersection of technology and design.
 
 <!--
 **aimeekang/aimeekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
