@@ -1,4 +1,4 @@
-## Aimee Kang
+# Aimee Kang
 
 ### About me 
 👩‍💻 Full stack developer passionate about the intersection of technology and design. <br>
