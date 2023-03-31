@@ -63,7 +63,8 @@
 </div>
           
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aimeekang&left_color=green&right_color=red)
+<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aimeekang&left_color=black&right_color=blue)
 
 
 <!--
